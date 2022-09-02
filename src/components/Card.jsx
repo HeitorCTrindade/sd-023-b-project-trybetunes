@@ -4,7 +4,6 @@ import PropTypes from 'prop-types';
 class Card extends Component {
   render() {
     const {
-      
       cardName,
       cardDescription,
       cardAttr1,
